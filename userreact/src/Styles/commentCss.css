@@ -1,0 +1,76 @@
+.comment-wrapper .panel-body {
+    max-height: 650px;
+    overflow: auto;
+    border: 2px solid #d9edf7;
+    padding: 15px;
+
+}
+.welcome{
+    font-family: 'Courier New', Courier, monospace;
+    color: #0cbded
+}
+.commentIcon{
+    margin-left: 20px;
+}
+.likeCount{
+    font-weight: bold;
+}
+.likeComment{
+    display: inline-flex;
+}
+.panel-info .panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+ul {
+    list-style: none;
+}
+.icon{
+    padding-left: 180px;
+}
+.userProfileDeleteUpdate{
+    padding: 10px;
+    margin-top: 8px;
+    font-size: 30px;
+}
+.fb{
+    float: inherit;
+    padding-left: 200px;  
+}
+
+.uname{
+    float: right;
+    padding-top: 30px;
+}
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+.comment-wrapper .media-list .media {
+    border-bottom: 1px solid#efefef;
+    margin-bottom: 25px;
+}
+
+.deleteicon {
+    padding-right: 7px;
+}
+
+.commentButton {
+    margin-left: 600px;
+}
+.commentText{
+    margin-bottom: 2px;
+  
+}
+.box{
+    width: 18rem;
+}
